@@ -82,6 +82,7 @@
 #include < xutility >
 
 #include < winsock2.h >
+#include < ws2tcpip.h >
 #include < winsock.h >
 
 #include < windows.h >
