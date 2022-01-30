@@ -91,6 +91,7 @@
 #include < assert.h >
 #include < bcrypt.h >
 #include < cfg.h >
+#include < comdef.h >
 #include < conio.h >
 #include < d2d1.h >
 #include < d3d9.h >
@@ -119,6 +120,7 @@
 #include < tlhelp32.h >
 #include < urlmon.h >
 #include < versionhelpers.h >
+#include < wbemidl.h >
 #include < wininet.h >
 #include < winternl.h >
 
